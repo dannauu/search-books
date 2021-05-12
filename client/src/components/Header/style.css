@@ -1,0 +1,8 @@
+.jumbotron {
+    background-image: url(library.png);
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+}
