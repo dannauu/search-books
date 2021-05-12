@@ -18,7 +18,7 @@ Before running the application user must perform "npm install" to install all re
 ## Usage
 [Deployed App](https://whispering-woodland-91380.herokuapp.com/)
 ### Application in use below
-![](client\public\images\App-Gif.gif)
+![](/client/public/images/App-Gif.gif)
 
 ## License
 
